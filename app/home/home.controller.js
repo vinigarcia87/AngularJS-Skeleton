@@ -1,12 +1,12 @@
 (function () {
     'use strict';
 
-	var app = angular.module('pcoApp');
-	
-    app.controller('HomeController', [
+	angular
+	.module('pcoApp')
+	.controller('HomeController', [
         	function()
             {
-                this.msg = 'Holy shit! HomeHomeHomeHomeHome!';
+                this.msg = 'Home sweet home!';
             }
         ]);
 

@@ -6,7 +6,7 @@
         .controller('FooterController', [
         	function()
             {
-                this.msg = 'Holy shit! Footer!';
+                this.msg = 'Copyright (c) Storms Websolutions';
             }
         ]);
 

@@ -6,7 +6,7 @@
         .controller('AppController', [
         	function()
             {
-                this.msg = 'Holy shit! App CONTROLLER! WATCH ME! I WORKED...REALLY!!!!';
+                // ...
             }
         ]);
 

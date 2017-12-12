@@ -6,7 +6,7 @@
         .controller('NavigationController', [
         	function()
             {
-                this.msg = 'Holy shit! navigation!';
+                this.msg = 'This is a good navigation!';
             }
         ]);
 

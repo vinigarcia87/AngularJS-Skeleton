@@ -6,7 +6,7 @@
         .controller('ToolbarController', [
         	function()
             {
-                this.msg = 'Holy shit! Toolbar!';
+                this.msg = 'Toolbar mensage';
             }
         ]);
 
