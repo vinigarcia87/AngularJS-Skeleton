@@ -111,6 +111,8 @@ gulp.task('scripts', function() {
 		
 		paths.node_modules_dir + '/angular/angular.min.js',
 		paths.node_modules_dir + '/angular-ui-router/release/angular-ui-router.min.js',
+		paths.node_modules_dir + '/angular-animate/angular-animate.min.js',
+		paths.node_modules_dir + '/angular-ui-bootstrap/dist/ui-bootstrap.js',
 		
 		paths.angular_dir + '/app.module.js',
 		paths.angular_dir + '/app.constant.js',
